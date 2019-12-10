@@ -1,11 +1,12 @@
 # Github Actions for PHP with PHPUnit tests
-
 This package provides a Github Action for your PHP repository. With it, you can automate your PHPUnit tests and facilitate your CI/CD processes.
 
 ## How to use
-
 It is as simple as adding the `.github/workflows` directory content of this package to your PHP project, commit, push it to your origin and then
 go to the `Actions` menu/tab of you Github repository page to see the Actions running. 
+
+## Example
+Go to the `Actions` menu/tab above in this Github page to see the actions results for this repository.
 
 ## Community Support
 If you need help with this bundle please consider open a question on StackOverflow using the `github-actions-php-phpunit` tag, 
