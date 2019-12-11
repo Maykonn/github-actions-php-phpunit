@@ -1,6 +1,8 @@
 name: Github Actions for PHP with PHPUnit Tests
 
 on: [push]
+  branches:
+    - master
 
 jobs:
   build:
