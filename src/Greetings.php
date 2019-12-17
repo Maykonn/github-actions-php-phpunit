@@ -4,6 +4,6 @@ class Greetings
 {
 	public static function sayHelloWorld()
 	{
-		return 'Hello World 1';
+		return 'Hello World';
 	}
 }
